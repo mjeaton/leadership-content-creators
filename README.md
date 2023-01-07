@@ -1,2 +1,3 @@
-# leadership-content-creators
-A list of leadership-related content creators
+# A list of content creators focused on leadership
+
+Coming soon!
