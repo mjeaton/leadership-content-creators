@@ -1,3 +1,3 @@
-# A list of content creators focused on leadership
+# A list of leadership-focused bloggers
 
 Coming soon!
