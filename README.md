@@ -10,3 +10,4 @@ A list inspired by the dotnet-content-creators repo maintained by [Matthias Jost
 | LeadDev | [Blog](https://leaddev.com/) |
 | Software Lead Weekly / Oren Ellenbogen |  [Newsletter](https://softwareleadweekly.com/) |
 | Suzan Bond | [Blog / Newsletter](https://suzansfieldnotes.substack.com/) |
+| The Beautiful Mess (John Cutler) | [Blog / Newsletter](https://cutlefish.substack.com/) |
